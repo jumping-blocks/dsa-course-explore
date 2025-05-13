@@ -1,19 +1,19 @@
 # Site settings
-course_name: History of Magic
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
-course_semester: "Fall 1998"
+course_name: Intro to Data Structures and Algorithms
+course_description: "My fake DSA course so I can have a better thing. "
+course_semester: "Spring 2025"
 
 baseurl: "/dsa-course-explore" # the subpath of your site, e.g. /blog/
 url: "http://jumping-blocks.github.io/" # the base hostname & protocol for your site
 
-schoolname: "Hogwarts"
-schoolurl: "https://hogwarts.edu"
+schoolname: "University of Washington"
+schoolurl: "https://washington.edu"
 twitter_username: username 
 
 address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
+    ECE PMP
+    UW
+    Seattle, WA
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
@@ -42,6 +42,8 @@ collections:
         output: true
     announcements:
         output: false
+    notes:
+        output: true
 
 
 defaults:
