@@ -20,9 +20,9 @@ Navigation around cities is a common graph problem.
 {% include image.html url="/_images/notes/graphs/Maps_and_navigation.pdf" align="right" %}
 
 
-![alt text](https://jumping-blocks.github.io/dsa-course-explore/_images/notes/graphs/Spatial_navigation.pdf "Map of inside space to navigate")
+![alt text](https://jumping-blocks.github.io/dsa-course-explore/_images/notes/graphs/Spatial_navigation.png "Map of inside space to navigate")
 
-{% include image.html url="/_images/notes/graphs/Spatial_navigation.pdf" align="right" %}
+{% include image.html url="/_images/notes/graphs/Spatial_navigation.png" align="right" %}
 
 
 Some notes about interesting things go here. Dunno what else. 
