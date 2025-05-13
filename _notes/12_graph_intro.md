@@ -32,7 +32,23 @@ Navigation around cities is a common graph problem.
 
 ## What is a Graph? 
 
-| A graph $G$ is a pair $G = (V, E)$ where $V$ is a set of ***vertices*** or ***nodes***, and $E$ is a set of ***edges*** that connect the nodes/vertices. 
+A graph $G$ is a pair $G = (V, E)$ where $V$ is a set of ***vertices*** or ***nodes***, and $E$ is a set of ***edges*** that connect the nodes/vertices. 
 
 In other words, a graph is a collection of nodes and edges. Linked lists and trees are all special cases of graphs! 
 
+### An Example
+
+
+Here is a graph $$G = (V, E)$$. 
+
+Here is a graph $G = (V, E)$. 
+
+* Each edge is a pair $(v_1, v_2)$, where $v_1, v_2 \in V$. 
+   * $V = \{ A, B, C, D, E, F \}$
+   * $$V = \{ A, B, C, D, E, F \}$$ 
+   * $E = \{ (A, B), (A, D) \}$
+
+
+### Terminology: Undirected Graph
+
+* Two vertices $u$ and $v$ are ***adjacent*** in an undirected graph $G$ if $\{u, v\}$ is an edge in $G$. 
